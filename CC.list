@@ -3,4 +3,4 @@
 DOMAIN-SUFFIX,poe.com
 
 # 代理关键字匹配列表
-DOMAIN-SUFFIX,poe
+DOMAIN-KEYWORD,poe
