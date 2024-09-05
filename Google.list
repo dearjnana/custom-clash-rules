@@ -1,0 +1,23 @@
+# 内容：Google
+DOMAIN-SUFFIX,google.com,DIRECT
+DOMAIN-SUFFIX,googleapis.com,DIRECT
+DOMAIN-SUFFIX,googleusercontent.com,DIRECT
+DOMAIN-SUFFIX,ggpht.com,DIRECT
+DOMAIN-SUFFIX,gstatic.com,DIRECT
+DOMAIN-SUFFIX,youtube.com,DIRECT
+DOMAIN-SUFFIX,ytimg.com,DIRECT
+DOMAIN-SUFFIX,googlevideo.com,DIRECT
+DOMAIN-SUFFIX,android.com,DIRECT
+DOMAIN-SUFFIX,gmail.com,DIRECT
+DOMAIN-SUFFIX,google.cn,DIRECT
+DOMAIN-SUFFIX,googleadservices.com,DIRECT
+DOMAIN-SUFFIX,googlesyndication.com,DIRECT
+DOMAIN-SUFFIX,google-analytics.com,DIRECT
+DOMAIN-SUFFIX,googletagmanager.com,DIRECT
+DOMAIN-SUFFIX,googletagservices.com,DIRECT
+DOMAIN-SUFFIX,googlecode.com,DIRECT
+DOMAIN-SUFFIX,google.co,DIRECT
+DOMAIN-SUFFIX,google.com.hk,DIRECT
+DOMAIN-SUFFIX,google.com.tw,DIRECT
+DOMAIN-SUFFIX,google.com.sg,DIRECT
+DOMAIN-SUFFIX,google.com.jp,DIRECT
