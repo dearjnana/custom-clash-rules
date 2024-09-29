@@ -1,16 +1,38 @@
-# openAI
+# GPT应用的Clash规则集
+# OpenAI API 和网站
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN,chat.openai.com
+DOMAIN,api.openai.com
+DOMAIN,platform.openai.com
 DOMAIN-KEYWORD,openai
+
+# OpenAI相关CDN和API
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+
+# 其他可能用到的AI服务
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+# GPT相关应用可能使用的分析和遥测服务
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+
+# 一些GPT应用可能用到的云服务
+DOMAIN-KEYWORD,openaicom
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+
 # payment
 DOMAIN-SUFFIX,stripe.com
+
 # register
 DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
 # 
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
@@ -20,5 +42,9 @@ DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,open-ai-chat
 DOMAIN-SUFFIX,phind.com
 DOMAIN-SUFFIX,albus.org
-DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segment.com
+
+
+# 如果有特定的GPT应用，可以添加它们的域名或IP
+# 例如：
+# DOMAIN-SUFFIX,example-gpt-app.com
