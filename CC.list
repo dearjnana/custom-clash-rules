@@ -2,6 +2,7 @@
 # 代理域名列表
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,rutracker.org
 
 #通过
 #DOMAIN,linux.do
