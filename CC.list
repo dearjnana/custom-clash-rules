@@ -4,5 +4,7 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,rutracker.org
 
+# 机场
+DOMAIN-SUFFIX,tanzcloud.com
 #通过
 #DOMAIN,linux.do
