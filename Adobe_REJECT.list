@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,careueyes.com,DROP
 DOMAIN-SUFFIX,update.careueyes.com,DROP
 DOMAIN-SUFFIX,care-eyes.com,DROP
+DOMAIN-SUFFIX,adobestats.io,DROP
+DOMAIN-SUFFIX,adobe.com
