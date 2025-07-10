@@ -8,5 +8,8 @@ DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,tanzcloud.com
 DOMAIN-SUFFIX,xmrth.com
 
+#虚拟卡
+DOMAIN-SUFFIX,yeka.ai
+
 #通过
 #DOMAIN,linux.do
